@@ -1,0 +1,23 @@
+.background-img {
+    background-image: url("computer.jpg");
+    background-size: cover;
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    height: 60vh;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.navbar{
+     width: 100vw;
+}
+/* .intro {
+    margin-top: 100px;
+    padding-top: 100px;
+    color: rgb(228, 224, 222);
+} */
+
+svg {
+    color : "white";
+}
